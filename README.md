@@ -1,9 +1,10 @@
 # portfolio
-A list of deployed personal projects
+A list of deployed personal projects, in the process of adding more.
 
 ## Art portfolio website
 A web app for showcasing personal art work, built using Vue.js and Node.js and deployed on Github Pages.
-Still in preliminary stages, but thinking to add an express backend to communicate with a postgreSQL database of urls for cloud-hosted images!
+Still in preliminary stages, planning to add an express backend to communicate with a postgreSQL database of urls for cloud-hosted images!
+Functional contact dialogue and use of Vuex store.
 
 https://tortoiseleaf.github.io/vue-artsite/#/
 
