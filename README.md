@@ -6,7 +6,7 @@ A web app for showcasing personal art work, built using Vue.js and Node.js and d
 Still in preliminary stages, planning to add an express backend to communicate with a postgreSQL database of urls for cloud-hosted images!
 Functional contact dialogue and use of Vuex store.
 
-https://tortoiseleaf.github.io/vue-artsite/#/
+(**in the process of re-deploying elsewhere due to github pages caching issues**)
 
 ![artsite landing page](https://github.com/TortoiseLeaf/portfolio/blob/main/img/artsite.png?raw=true)
 
