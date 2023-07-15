@@ -14,4 +14,4 @@ Functioning contact feature on the landing page.
 
 **Tech stack:**
 
-![vue.js](https://github.com/TortoiseLeaf/portfolio/blob/main/img/vuejs.png) ![node.js](https://github.com/TortoiseLeaf/portfolio/blob/main/img/nodejs.png) ![firebase](https://github.com/TortoiseLeaf/portfolio/blob/main/img/firebase.png) ![bootstrap](https://github.com/TortoiseLeaf/portfolio/blob/main/img/bootstrap.png)
+![vue.js](https://github.com/TortoiseLeaf/portfolio/blob/main/img/vuejs.png) ![node.js](https://github.com/TortoiseLeaf/portfolio/blob/main/img/nodejs.png) ![firebase](https://github.com/TortoiseLeaf/portfolio/blob/main/img/firebase.png) ![bootstrap](https://github.com/TortoiseLeaf/portfolio/blob/main/img/bootstrap.png?raw=true)
