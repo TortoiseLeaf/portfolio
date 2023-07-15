@@ -8,7 +8,7 @@ Functioning contact feature on the landing page.
 
 (**_in the process of re-deploying to firebase due to github pages caching issues_**) 
 
-**Find it here:**[artsite-e1dd0.firebaseapp.com](artsite-e1dd0.firebaseapp.com)
+**Find it at:** artsite-e1dd0.web.app 
 
 ![artsite landing page](https://github.com/TortoiseLeaf/portfolio/blob/main/img/artsite.png?raw=true)
 
