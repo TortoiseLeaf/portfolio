@@ -38,7 +38,7 @@ https://github.com/TortoiseLeaf/portfolio/assets/91842216/17293afd-5a3b-4547-ade
 
 **Tech stack:**
 
-![ibmcloud](https://github.com/TortoiseLeaf/portfolio/blob/main/img/ibmcloud-trsp.png) ![Watson-ai](https://github.com/TortoiseLeaf/portfolio/blob/main/img/watson-logo.png) ![python](https://github.com/TortoiseLeaf/portfolio/blob/main/img/python-logo.png) ![Slack](https://github.com/TortoiseLeaf/portfolio/blob/main/img/slack.png)
+![ibmcloud](https://github.com/TortoiseLeaf/portfolio/blob/main/img/ibmcloud-trsp.png) ![Watson-ai](https://github.com/TortoiseLeaf/portfolio/blob/main/img/watson-logo.png) ![python](https://github.com/TortoiseLeaf/portfolio/blob/main/img/python-logo.png) ![Slack](https://github.com/TortoiseLeaf/portfolio/blob/main/img/Slack-logo.png)
 
 -----------------------------------------
 
