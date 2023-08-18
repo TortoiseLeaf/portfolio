@@ -1,5 +1,5 @@
 # portfolio
-A list of deployed personal project. Work in progress!
+A list of deployed personal projects. WIP!
 
 ## Art portfolio website
 A web app for showcasing personal art work, built using Vue.js and Node.js and deployed on firebase.
@@ -16,7 +16,7 @@ Functioning contact feature on the landing page.
 
 ![vue.js](https://github.com/TortoiseLeaf/portfolio/blob/main/img/vuejs.png) ![node.js](https://github.com/TortoiseLeaf/portfolio/blob/main/img/nodejs.png) ![firebase](https://github.com/TortoiseLeaf/portfolio/blob/main/img/firebase.png) ![bootstrap](https://github.com/TortoiseLeaf/portfolio/blob/main/img/bootstrap.png?raw=true)
 
-
+---------------------------
 
 
 ## Slack Chatbot
@@ -36,9 +36,11 @@ Deployed on Web:
 
 https://github.com/TortoiseLeaf/portfolio/assets/91842216/17293afd-5a3b-4547-ade3-c55ea452aa86
 
+**Tech stack:**
 
+![ibmcloud](https://github.com/TortoiseLeaf/portfolio/blob/main/img/ibmcloud-trsp.png) ![Watson-ai](https://github.com/TortoiseLeaf/portfolio/blob/main/img/watson-logo.png) ![python](https://github.com/TortoiseLeaf/portfolio/blob/main/img/python-logo.png) ![Slack](https://github.com/TortoiseLeaf/portfolio/blob/main/img/slack.png)
 
-
+-----------------------------------------
 
 
 
