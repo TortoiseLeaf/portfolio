@@ -8,7 +8,7 @@ Functioning contact feature on the landing page.
 
 *Originally deployed to github-pages but moved to firebase due to caching issues* 
 
-**Find it at:** [https://artsite-e1dd0.firebaseapp.com/#/](https://artsite-e1dd0.firebaseapp.com/#/)
+**Find it here:** [https://artsite-e1dd0.firebaseapp.com/#/](https://artsite-e1dd0.firebaseapp.com/#/)
 
 ![artsite landing page](https://github.com/TortoiseLeaf/portfolio/blob/main/img/artsite.png?raw=true)
 
@@ -28,17 +28,17 @@ Following an IBM tutorial [here](https://cloud.ibm.com/docs/solution-tutorials?t
 - In-browser web Actions are then created from scratch to handle user input and to read and write to and from the database. 
 - The chatbot app is then integrated to a Slack app deployed to a workspace.
 
-Deployed on Slack:
+[Deployed on Slack example:](https://vimeo.com/855946976?share=copy)
 
-https://github.com/TortoiseLeaf/portfolio/assets/91842216/d5ef523b-e554-498d-970c-f9a59588b115
+[Deployed on Web example:](https://vimeo.com/855950454?share=copy)
 
-Deployed on Web:
-
-https://github.com/TortoiseLeaf/portfolio/assets/91842216/17293afd-5a3b-4547-ade3-c55ea452aa86
 
 **Tech stack:**
 
-![ibmcloud](https://github.com/TortoiseLeaf/portfolio/blob/main/img/ibmcloud-trsp.png) ![Watson-ai](https://github.com/TortoiseLeaf/portfolio/blob/main/img/watson-logo.png) ![python](https://github.com/TortoiseLeaf/portfolio/blob/main/img/python-logo.png) ![Slack](https://github.com/TortoiseLeaf/portfolio/blob/main/img/Slack-logo.png)
+![ibmcloud](https://github.com/TortoiseLeaf/portfolio/blob/main/img/ibmcloud-trsp.png) 
+![watson-ai](https://github.com/TortoiseLeaf/portfolio/blob/main/img/watson.png?raw=true)
+![python](https://github.com/TortoiseLeaf/portfolio/blob/main/img/python.png?raw=true) 
+![Slack](https://github.com/TortoiseLeaf/portfolio/blob/main/img/slack.png?raw=true)
 
 -----------------------------------------
 
