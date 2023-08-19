@@ -19,7 +19,7 @@ Functioning contact feature on the landing page.
 ---------------------------
 
 
-## Slack Chatbot
+## IBM Watson/Slack Chatbot
 
 Following an IBM tutorial [here](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-slack-chatbot-database-watson#slack-chatbot-database-watson). **_(Resources are since deleted to avoid accruing charges.)_**
 
