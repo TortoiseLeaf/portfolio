@@ -1,10 +1,9 @@
 # portfolio
-A list of deployed personal projects. WIP!
+A list of some previous projects
 
 ## Art portfolio website
-A web app for showcasing personal art work, built using Vue.js and Node.js and deployed on firebase.
-Still in preliminary stages, planning to add an express backend to communicate with a postgreSQL database of urls for cloud-hosted images. This should prevent the frontend app becoming overburdened with large images.
-Functioning contact feature on the landing page.
+A webapp I started developing in my 2nd year of uni for showcasing personal art work, built using Vue.js and Node.js and deployed on firebase.
+Using Vue's state store to dynamically render gallery images, various bootstrap components for the UI and Axios with formsubmit.co to create a functioning contact feature on the landing page.
 
 *Originally deployed to github-pages but moved to firebase due to caching issues* 
 
